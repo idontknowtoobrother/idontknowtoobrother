@@ -13,7 +13,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&locale=en" alt="idontknowtoobrother" /></p>
+[![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idontknowtoobrother&" alt="idontknowtoobrother" /></p>
 
