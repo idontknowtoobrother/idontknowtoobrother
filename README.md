@@ -11,7 +11,7 @@
 
 - 📫 My Contact **grimjakkrit@gmail.com, keng#0110**
 
-- 🧐 This Me :D **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
+- 🧐 This Me  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
