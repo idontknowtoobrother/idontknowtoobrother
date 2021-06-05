@@ -12,12 +12,7 @@
 - 🧐 This Me  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&locale=en" alt="idontknowtoobrother" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idontknowtoobrother&" alt="idontknowtoobrother" /></p>
