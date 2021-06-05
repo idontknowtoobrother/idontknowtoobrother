@@ -13,7 +13,7 @@
 - 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idontknowtoobrother&" alt="idontknowtoobrother" /></p>
+[![ Used Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=idontknowtoobrother&layout=compact)](https://discord.gg/P2R9kyaUKN)
 
 <p align="left">
 <a href="https://twitter.com/sendmetobaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
