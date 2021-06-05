@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keng and My bu Poon</h1>
+<h1 align="center">Hi 👋, I'm Keng and KP </h1>
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 
 <p align="left"> <a href="https://twitter.com/sendmetobaal" target="blank"><img src="https://img.shields.io/twitter/follow/sendmetobaal?logo=twitter&style=for-the-badge" alt="sendmetobaal" /></a> </p>
