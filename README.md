@@ -1,8 +1,6 @@
-<h1 align="center"> Keng & KP </h1>
+#### Keng & KP
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Keng & KP](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 💡 I’m currently study at **Burapha University.**
 
