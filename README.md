@@ -1,6 +1,5 @@
 <head>
-  <title>Title</title>
-  <meta property="og:image" content="http://example.com/logo.jpg" />
+  <img src="https://static.vecteezy.com/system/resources/previews/001/197/570/non_2x/ribbon-grunge-banner-png.png" alt="lua" width="200" height="80"/>
 </head>
 
 <h1 align="center"> Keng & KP </h1>
