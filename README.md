@@ -1,9 +1,10 @@
-<h1 align="center"> Keng & KP </h1>
-<h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 <head>
   <title>Title</title>
   <meta property="og:image" content="http://example.com/logo.jpg" />
 </head>
+
+<h1 align="center"> Keng & KP </h1>
+<h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 
 - 💡 I’m currently study at **Burapha University.**
 
