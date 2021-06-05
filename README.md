@@ -11,8 +11,6 @@
 
 - 🧐 This Me  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idontknowtoobrother&show_icons=true&locale=en&layout=compact" alt="idontknowtoobrother" /></p>
 
