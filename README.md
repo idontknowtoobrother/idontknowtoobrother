@@ -1,6 +1,6 @@
-<head align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/001/197/570/non_2x/ribbon-grunge-banner-png.png" alt="lua" width="200" height="80"/>
-</head>
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/197/570/non_2x/ribbon-grunge-banner-png.png" alt="my-banner"/>
+</p>
 
 <h1 align="center"> Keng & KP </h1>
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
