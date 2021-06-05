@@ -15,10 +15,6 @@
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idontknowtoobrother&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idontknowtoobrother&exclude_repo=AFU_WarGangScoreBoard)](https://github.com/anuraghazra/github-readme-stats)
-
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
 
