@@ -10,10 +10,8 @@
 - 📫 My Contact **grimjakkrit@gmail.com**
 
 - 🧐 This Me  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
-
-
-
-[![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother)](https://discord.gg/P2R9kyaUKN)
+- 
+![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idontknowtoobrother&" alt="idontknowtoobrother" /></p>
 
