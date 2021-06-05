@@ -10,7 +10,8 @@
 
 - 📫 My Contact **grimjakkrit@gmail.com**
 
-- 🧐 This Me  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
+- 🧐 This Me  
+  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup.    Sorry for my English skill 😅**
 
 
 <p align="left"> 
