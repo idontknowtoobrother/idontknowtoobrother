@@ -1,4 +1,4 @@
-<head>
+<head align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/001/197/570/non_2x/ribbon-grunge-banner-png.png" alt="lua" width="200" height="80"/>
 </head>
 
@@ -18,7 +18,7 @@
 
 
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
