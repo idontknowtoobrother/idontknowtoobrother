@@ -1,6 +1,6 @@
 #### Keng & KP
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
-![Keng & KP](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 - 💡 I’m currently study at **Burapha University.**
 
