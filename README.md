@@ -1,6 +1,9 @@
 <h1 align="center"> Keng & KP </h1>
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
-
+<head>
+  <title>Title</title>
+  <meta property="og:image" content="http://example.com/logo.jpg" />
+</head>
 
 - 💡 I’m currently study at **Burapha University.**
 
@@ -12,6 +15,7 @@
 
 - 🧐 This Me  
   **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup.    Sorry for my English skill 😅**
+
 
 
 <p align="left"> 
