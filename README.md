@@ -10,10 +10,15 @@
 - 📫 My Contact **grimjakkrit@gmail.com**
 
 - 🧐 This Me  **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup. Sorry for my English skill 😅**
-- 
+
+
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark)
 
-[![ Used Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=idontknowtoobrother&layout=compact)](https://discord.gg/P2R9kyaUKN)
+[![ Code Not My Father's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=idontknowtoobrother)]
+
+
+**Github Theme Credit**
+[![ anuraghazra's Github ]](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <a href="https://twitter.com/sendmetobaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
