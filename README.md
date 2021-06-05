@@ -17,7 +17,7 @@
   **I'm not a people who jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup.    Sorry for my English skill 😅**
 
 
-
+<h3 align="center">My coding skill I'm not a professional 😄</h3>
 <p align="center"> 
 <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
