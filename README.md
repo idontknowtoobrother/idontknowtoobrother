@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keng and KP </h1>
+<h1 align="center"> I'm Keng and KP </h1>
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 
 - 💡 I’m currently study at **Burapha University.**
