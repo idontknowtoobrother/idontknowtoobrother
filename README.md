@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/001/197/570/non_2x/ribbon-grunge-banner-png.png" alt="my-banner"/>
+  <img src="https://i.giphy.com/3w3QgLpIgUhqDAt2W4.gif" alt="my-banner"/>
 </p>
 
 <h1 align="center"> Keng & KP </h1>
