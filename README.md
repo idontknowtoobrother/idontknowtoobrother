@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/3w3QgLpIgUhqDAt2W4.gif" alt="my-banner"/>
+  <img src="https://i.giphy.com/media/16rv7SSC1SXcjwEKqt/source.gif" alt="my-banner"/>
 </p>
 
 <h1 align="center"> Keng & KP </h1>
