@@ -26,8 +26,6 @@
 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
 
-![Discord](https://discord.gg/s4K7JZS5HC)  
-
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
 
