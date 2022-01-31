@@ -7,7 +7,7 @@
 
 - 💡 I’m currently study at **Burapha University.**
 
-- 👨‍💻 All of my projects are available at Discord Server [https://discord.gg/XkSBtFraD3](https://discord.gg/XkSBtFraD3)
+- 👨‍💻 All of my projects are available at Discord Server [AFU Discord Community Server](https://discord.gg/spqAG3Ktkv)
 
 - 💬 Ask me about **FiveM Scripts, Lua Basic**
 
