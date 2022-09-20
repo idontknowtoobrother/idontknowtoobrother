@@ -7,14 +7,14 @@
 
 - 💡 I’m currently study at **Burapha University.**
 
-- 👨‍💻 All of my projects are available at Discord Server [AFU Discord Community Server](https://discord.gg/spqAG3Ktkv)
+- 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
 
-- 💬 Ask me about **FiveM Scripts, Lua Basic**
+- 💬 Ask me about **FiveM Scripts, Lua Basic, Js, NodeJs and Vue JS (Basic)**
 
-- 📫 My Contact **grimjakkrit@gmail.com**
+- 📫 My Contact **idontknowbrotherpls@gmail.com**
 
 - 🧐 This Me  
-  **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup.    Sorry for my English skill 😅**
+  **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to grow.    Sorry for my English skill 😅**
 
 
 <h3 align="center">My coding skill I'm not a professional 😄</h3>
@@ -37,4 +37,3 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" height="30" width="40" /></a>
 <a href="https://discord.gg/BWWac9KYXj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BWWac9KYXj" height="30" width="40" /></a>
 </p>
-https://media.discordapp.net/attachments/909696487984869408/1018723889116885073/nisit_profile.png?width=496&height=702
