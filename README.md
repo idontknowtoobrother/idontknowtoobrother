@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
 
-- 💬 Ask me about **FiveM Scripts, Lua Basic, Js, NodeJs and Vue JS (Basic)**
+- 💬 Ask me about **FiveM Scripts, Lua Basic, Js, NodeJs and Vue JS (Basic), NestJs, Kotlin, Dart, SQL, MongoDB and Flutter (Kids)**
 
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
