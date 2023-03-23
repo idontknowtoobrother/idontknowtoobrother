@@ -1,11 +1,10 @@
 <h1 align="center"> Jakkrit Chaopron (Keng) </h1>
-<h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 
 - 💡 I’m currently study at **Burapha University.**
 
 - 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
 
-- 💬 Ask me about **Lua, Js(Basic), Vue JS(Basic), NestJs(Basic), Kotlin(Basic), Dart(Basic), SQL, MongoDB, Flutter(Basic), React(Basic)**
+- 💬 What I can do ? **Lua, Js(Basic), Vue JS(Basic), NestJs(Basic), Kotlin(Basic), Dart(Basic), SQL, MongoDB, Flutter(Basic), React(Basic)**
 
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
