@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/932588980258607124/1085177705420570705/AFU-Logo.png" alt="my-banner"/>
+  <img src="https://media.discordapp.net/attachments/932588980258607124/1085177705420570705/AFU-Logo.png?width=702&height=702" alt="my-banner"/>
 </p>
 
 <h1 align="center"> Keng </h1>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
 
-- 💬 Ask me about **FiveM Scripts, Lua Basic, Js, NodeJs and Vue JS (Basic), NestJs, Kotlin, Dart, SQL, MongoDB and Flutter (Kids)**
+- 💬 Ask me about **Lua, Js(Basic), Vue JS(Basic), NestJs(Basic), Kotlin(Basic), Dart(Basic), SQL, MongoDB, Flutter(Basic), React(Basic)**
 
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
@@ -18,7 +18,7 @@
 
 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
-[ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&count_private=true&show_icons=true&theme=radical)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=idontknowtoobrother&show_icons=true&theme=radical)
 
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
