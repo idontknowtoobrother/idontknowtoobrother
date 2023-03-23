@@ -18,9 +18,13 @@
 
 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
+[ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&count_private=true&show_icons=true&theme=radical)
 
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <p align="left">
 <a href="https://twitter.com/sendmetobaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
