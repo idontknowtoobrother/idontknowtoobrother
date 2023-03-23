@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/932588980258607124/1085177705420570705/AFU-Logo.png?width=702&height=702" alt="my-banner"/>
-</p>
-
-<h1 align="center"> Keng </h1>
+<h1 align="center"> Jakkrit Chaopron (Keng) </h1>
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 
 - 💡 I’m currently study at **Burapha University.**
@@ -27,9 +23,9 @@
 
 
 <p align="left">
-<a href="https://twitter.com/sendmetobaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/xin.jakkrit.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/xin.jakkrit.5/" height="30" width="40" /></a>
+<a href="https://twitter.com/forgotmeyet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100084101424253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/xin.jakkrit.5/" height="30" width="40" /></a>
 <a href="https://instagram.com/kchxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kchxx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" height="30" width="40" /></a>
-<a href="https://discord.gg/BWWac9KYXj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BWWac9KYXj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmlVEzXF7yaOY7ojHH7Yk5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" height="30" width="40" /></a>
+<a href="https://discord.gg/ZbcPYUsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BWWac9KYXj" height="30" width="40" /></a>
 </p>
