@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/16rv7SSC1SXcjwEKqt/source.gif" alt="my-banner"/>
+  <img src="https://media.discordapp.net/attachments/932588980258607124/1085177705420570705/AFU-Logo.png" alt="my-banner"/>
 </p>
 
 <h1 align="center"> Keng </h1>
