@@ -9,7 +9,7 @@
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
 - 🧐 This Me  
-  **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to grow.    Sorry for my English skill 😅**
+  **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to better.    Sorry for my English skill 😅**
 
 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&count_private=true&show_icons=true&theme=radical)
