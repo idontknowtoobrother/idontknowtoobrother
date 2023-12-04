@@ -12,8 +12,12 @@
   **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning and asking from them I just want to be better.    Sorry for my English skill 😅**
 
 
-![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&count_private=true&show_icons=true&theme=radical)
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=idontknowtoobrother&count_private=true&show_icons=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idontknowtoobrother&show_icons=true&locale=en&layout=compact" alt="idontknowtoobrother" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&locale=en" alt="idontknowtoobrother" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idontknowtoobrother&" alt="idontknowtoobrother" /></p>
 
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
@@ -28,10 +32,4 @@
 <a href="https://www.youtube.com/channel/UCmlVEzXF7yaOY7ojHH7Yk5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" height="30" width="40" /></a>
 <a href="https://discord.gg/ZbcPYUsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BWWac9KYXj" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idontknowtoobrother&show_icons=true&locale=en&layout=compact" alt="idontknowtoobrother" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&locale=en" alt="idontknowtoobrother" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idontknowtoobrother&" alt="idontknowtoobrother" /></p>
 
