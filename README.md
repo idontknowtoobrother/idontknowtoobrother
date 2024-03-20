@@ -8,7 +8,7 @@
 
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
-- 🧐 This Me  
+- 🧐 What I'm thinking? 
   **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning and asking from them I just want to be better.    Sorry for my English skill 😅**
 
 
