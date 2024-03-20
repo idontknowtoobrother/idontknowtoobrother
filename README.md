@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
 
-- 💬 What I can cook ? **Lua, Js, Vue JS, NestJs, Kotlin, Dart, SQL, MongoDB, Flutter, ReactJs**
+- 💬 What I can cook? **Lua, Js, Vue JS, NestJs, Kotlin, Dart, SQL, MongoDB, Flutter, ReactJs**
 
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
