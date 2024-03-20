@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
 
-- 💬 What I can do ? **Lua, Js(Basic), Vue JS(Basic), NestJs(Basic), Kotlin(Basic), Dart(Basic), SQL, MongoDB, Flutter(Basic), React(Basic)**
+- 💬 What I can do ? **Lua, Js, Vue JS, NestJs, Kotlin, Dart, SQL, MongoDB, Flutter, ReactJs**
 
 - 📫 My Contact **idontknowbrotherpls@gmail.com**
 
