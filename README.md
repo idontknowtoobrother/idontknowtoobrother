@@ -2,7 +2,7 @@
 
 - 💡 I’m currently study at **Burapha University.**
 
-- 👨‍💻 All of my projects are available on [AFU Developer](https://awayfromus.dev)
+- 👨‍💻 My portfolio kub -> [Hex Portfolio](https://hex-portfolio.vercel.app/)
 
 - 💬 What I can cook? **Go, Lua, Js, Vue JS, NestJs, Kotlin, Dart, SQL, MongoDB, Flutter, ReactJs**
 
